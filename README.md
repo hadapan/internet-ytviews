@@ -7,4 +7,4 @@ $ pip install mechanize requests bs4
 $ termux-setup-storage
 $ git clone https://github.com/hadapan/internet-ytviews
 $ cd internet-ytviews
-$ 
+$ python2 internet-views.py
